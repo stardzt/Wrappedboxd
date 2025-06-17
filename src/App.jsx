@@ -2,7 +2,7 @@ import { useRef, useState } from 'react'
 import './App.css'
 import Papa from 'papaparse';
 import TMDBPoster from './TMDBPoster';
-import Modal from './modal';
+import Modal from './Modal';
 import html2canvas from 'html2canvas-pro';
 
 function StarRating({ rating, max = 5 }) {
