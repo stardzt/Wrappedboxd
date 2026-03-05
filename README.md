@@ -1,7 +1,9 @@
-A single page application that gives image template of monthly film watches from Letterboxd. Uses TMDB API to fetch film posters. You can visit the site here 'https://wrappedboxd.netlify.app/'.
+### Wrappedboxd
+A single page application that generates image template of monthly film watches from Letterboxd. Uses TMDB API to fetch film posters.
+
+![Screenshot](Wrappedboxd_July_2025.png)
 
 # How to Use
-
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+- Visit your account settings on Letterboxd.
+- Go to the `data` tab and click `export your data`. You need to have diary entries on Letterboxd to be able to display your data on Wrappedboxd.
+- Add the recently downloaded data into Wrappedboxd.
